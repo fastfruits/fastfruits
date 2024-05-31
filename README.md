@@ -42,7 +42,7 @@ Hi there! I'm [Your Name], a passionate software developer with proficiency in a
 - Add a fun fact about yourself or something unique about your coding journey.
 
 ## 📈 GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=fastfruits_icons=true&theme=radical)
 
 ---
 
