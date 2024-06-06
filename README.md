@@ -10,8 +10,8 @@ Hi there! I'm Nicholas Henry, a passionate software developer with proficiency i
 - **C#:** Proficient in building desktop applications and games with Unity.
 
 ### Web Development
-- **HTML & CSS:** Strong understanding of web design principles and responsive design techniques.
-- **JavaScript:** Adept at creating dynamic and interactive web applications using vanilla JavaScript and frameworks like React.
+- **HTML & CSS:** Good understanding of web design principles, responsive design techniques, and an engaging website format and style.
+- **JavaScript:** Adept at creating dynamic and interactive web applications using vanilla JavaScript and frameworks like React and Vite.
 
 ## 📂 Projects
 
@@ -29,6 +29,7 @@ Hi there! I'm Nicholas Henry, a passionate software developer with proficiency i
 
 ## 🌱 What I'm Currently Learning
 - **[Use of APIs]:** - Working with APIs like OpenAI, Microsoft Azure, and ElevenLabs to create projects with prexisting programs and models.
+- **[C++]** - Looking to learn how to code with C++ and creating more optimized code and memory storage.
   
 ## 📫 How to Reach Me
 - **Email:** [nichoias.henry1006@gmail.com](mailto:nichoias.henry1006@gmail.com)
