@@ -17,7 +17,7 @@ Hi there! I'm Nicholas Henry, a passionate software developer with proficiency i
 
 ### ☕ Java Projects
 - **[Medieval RPG]** - Submission for my school club's GameJam which I won. 2D top down game with RPG mechanics. [Repository](https://github.com/fastfruits/MedievalRPG1)
-- **[Humanbenchmark App]** - Submission for my school club's Hack-A-Thon which also won. Application which had a few tests like reaction time, typing speed, and targets and then returned an overall score. [Repository](https://github.com/fastfruits/Humanbenchmark-Test)
+- **[Humanbenchmark App]** - Submission for my school club's Hack-A-Thon which also won. Application which had a few tests like reaction time, typing speed, and targets and then returned an overall score. [Repository](https://github.com/fastfruits/Benchmark-Test)
 
 ### 🐍 Python Projects
 - **[Ten80 AV Car]** - Coded scripts for school Ten80 club AV which we took to competitions and won districts, states, and almost nationals.
