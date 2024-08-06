@@ -5,7 +5,7 @@ Hi there! I'm Nicholas Henry, a passionate software developer with proficiency i
 ## 🛠 Languages and Tools
 
 ### Programming Languages
-- **[Java]** - Experienced in developing web applications and desktop apps.
+- **[Java]** - Experienced in developing desktop apps, games, and working with microcomputers.
 - **[Python]** - Skilled in machine learning, web scraping, automation, and working with robotics and microcontrollers.
 - **[C#]** - Proficient in building desktop applications and games with Unity.
 
@@ -28,7 +28,7 @@ Hi there! I'm Nicholas Henry, a passionate software developer with proficiency i
 - **[Portfolio Website]** - Personal website which hosts my projects and I use to show off my website creation abilities like responsivness and interactability. [Repository](https://github.com/fastfruits/Website)
 
 ## 💻 What I'm Currently Learning
-- **[Use of APIs]:** - Working with APIs like OpenAI, Microsoft Azure, and ElevenLabs to create projects with prexisting programs and models.
+- **[Robotics/Electronics]:** - Working with microcontrollers and microcomputers like Arduinos and Raspberry Pis to create a physical project to fullfill a certain task.
 - **[C++]** - Looking to learn how to code with C++ and creating more optimized code and memory storage.
   
 ## 📫 How to Reach Me
