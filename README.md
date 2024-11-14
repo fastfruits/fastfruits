@@ -16,14 +16,14 @@ Hi there! I'm Nicholas Henry, a passionate software developer with proficiency i
 ## 📂 Projects
 
 ### ☕ Java Projects
-- **[Medieval RPG]** - Submission for my school club's GameJam which I won. 2D top down game with RPG mechanics. [Repository](https://github.com/fastfruits/MedievalRPG1)
+- **[Medieval RPG]** - Submission for my school club's GameJam in which I won first place by popular and judge vote. Its a 2D top down game with RPG mechanics. Learned many game design practices and built upon my Java skills through this project. One of my more long term projects that I worked on for about two months. [Repository](https://github.com/fastfruits/MedievalRPG1)
   
 - **[Humanbenchmark App]** - Submission for my school club's Hack-A-Thon which also won. Application which had a few tests like reaction time, typing speed, and targets and then returned an overall score. [Repository](https://github.com/fastfruits/Benchmark-Test)
 
 ### 🐍 Python Projects
 - **[Ten80 AV Car]** - Coded scripts for school Ten80 club AV which we took to competitions and won districts, states, and almost nationals.
   
-- **[CV AI Text Transcriber]** - First machine learning project where I used Tensorflow and trained a model to recognize handwritten words and then transcribe them into a .txt file which could then be turned into a .mp3 of a multitude of languages using Google's TTS and Translate APIs. [Repository](https://github.com/panyang05/Text-Transcriber)
+- **[CV AI Text Transcriber]** - First machine learning project where I used Tensorflow and trained a model to recognize handwritten words and then transcribe them into a .txt file which could then be turned into a .mp3 of a multitude of languages using Google's TTS and Translate APIs. [Repository](https://github.com/fastfruits/Text-Transcriber)
 
 ### 📱 Web Development Projects
 - **[AICamp.org Website Additions]** - Worked as a intern to add a portion to their website which aids in the teaching of AI to students and allowed the comnpany to expand outside of their summer and winter timeslots into a year-round model [Repository](https://github.com/Suru10/CV-UI).
