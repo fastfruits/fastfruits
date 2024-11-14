@@ -18,10 +18,10 @@ Hi there! I'm Nicholas Henry, a passionate software developer with proficiency i
 ### ☕ Java Projects
 - **[Medieval RPG]** - Submission for my school club's GameJam in which I won first place by popular and judge vote. Its a 2D top down game with RPG mechanics. Learned many game design practices and built upon my Java skills through this project. One of my more long term projects that I worked on for about two months. [Repository](https://github.com/fastfruits/MedievalRPG1)
   
-- **[Humanbenchmark App]** - Submission for my school club's Hack-A-Thon which also won. Application which had a few tests like reaction time, typing speed, and targets and then returned an overall score. [Repository](https://github.com/fastfruits/Benchmark-Test)
+- **[Humanbenchmark App]** - Submission for my school club's Hack-A-Thon in which I won first place by popular and judge vote. Application which had a few tests like reaction time, typing speed, and targets and then returned an overall score. [Repository](https://github.com/fastfruits/Benchmark-Test)
 
 ### 🐍 Python Projects
-- **[Ten80 AV Car]** - Coded scripts for school Ten80 club AV which we took to competitions and won districts, states, and almost nationals.
+- **[Ten80 AV Car]** - Coded the scripts for my school's Ten80 club autonomous vehicle which we took to competitions and won between other schools in our district. Done through programming a micro bit microcontroller which would receive input from infared, ultrasonic, and other sensors to then output commands to the servos and motors on the chassis. [Repository](https://github.com/fastfruits/)
   
 - **[CV AI Text Transcriber]** - First machine learning project where I used Tensorflow and trained a model to recognize handwritten words and then transcribe them into a .txt file which could then be turned into a .mp3 of a multitude of languages using Google's TTS and Translate APIs. [Repository](https://github.com/fastfruits/Text-Transcriber)
 
