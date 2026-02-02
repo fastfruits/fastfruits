@@ -35,8 +35,8 @@ Hi there! I'm Nicholas Henry, a passionate software developer with proficiency i
 - **[C++]** - Looking to learn how to code with C++ and creating more optimized code and memory storage.
   
 ## 📫 How to Reach Me
-- **Email:** [nichoias.henry1006@gmail.com](mailto:nichoias.henry1006@gmail.com)
-- **LinkedIn:** [https://www.linkedin.com/in/nicholas-henry-57b325283/](https://www.linkedin.com/in/nicholas-henry-57b325283/)
+- **Email:** [nicholasahenry06@gmail.com](mailto:nicholasahenry06@gmail.com)
+- **LinkedIn:** [https://www.linkedin.com/in/nahenry06/](https://www.linkedin.com/in/nahenry06/)
 
 ---
 
