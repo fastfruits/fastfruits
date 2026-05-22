@@ -1,43 +1,90 @@
-# Welcome to My GitHub Profile
+# Hi, I'm Nicholas Henry 👋
 
-Hi there! I'm Nicholas Henry, a passionate software developer with proficiency in a variety of programming languages and technologies. My expertise spans across Java, Python, C#, HTML, CSS, and JavaScript. Here you'll find a collection of my projects showcasing my skills and experience.
-
-## 🛠 Languages and Tools
-
-### Programming Languages
-- **[Java]** - Experienced in developing desktop apps, games, and working with microcomputers.
-- **[Python]** - Skilled in machine learning, web scraping, automation, and working with robotics and microcontrollers.
-- **[C#]** - Proficient in building desktop applications and games with Unity.
-
-### Web Development
-- **[HTML & CSS]** - Good understanding of web design principles, responsive design techniques, and an engaging website format and style.
-- **[JavaScript]** - Adept at creating dynamic and interactive web applications using vanilla JavaScript and frameworks like React and Vite.
-
-## 📂 Projects
-
-### ☕ Java Projects
-- **[Medieval RPG]** - Submission for my school club's GameJam in which I won first place by popular and judge vote. Its a 2D top down game with RPG mechanics. Learned many game design practices and built upon my Java skills through this project. One of my more long term projects that I worked on for about two months. [Repository](https://github.com/fastfruits/MedievalRPG1)
-  
-- **[Humanbenchmark App]** - Submission for my school club's Hack-A-Thon in which I won first place by popular and judge vote. Application which had a few tests like reaction time, typing speed, and targets and then returned an overall score. [Repository](https://github.com/fastfruits/Benchmark-Test)
-
-### 🐍 Python Projects
-- **[Ten80 AV Car]** - Coded the scripts for my school's Ten80 club autonomous vehicle which we took to competitions and won between other schools in our district. Done through programming a micro bit microcontroller which would receive input from infared, ultrasonic, and other sensors to then output commands to the servos and motors on the chassis. [Repository](https://github.com/fastfruits/AutonomousVehicle_Ten802023-2024)
-  
-- **[CV AI Text Transcriber]** - First machine learning project where I used Tensorflow and trained a model to recognize handwritten words and then transcribe them into a .txt file which could then be turned into a .mp3 of a multitude of languages using Google's TTS and Translate APIs. [Repository](https://github.com/fastfruits/Text-Transcriber)
-
-### 📱 Web Development Projects
-- **[AICamp.org Website Additions]** - Worked as a intern to add a portion to their website which aids in the teaching of AI to students and allowed the comnpany to expand outside of their summer and winter timeslots into a year-round model [Repository](https://github.com/Suru10/CV-UI).
-  
-- **[Portfolio Website]** - Personal website which hosts my projects and I use to show off my website creation abilities like responsivness and interactability. [Repository](https://github.com/fastfruits/Website)
-
-## 💻 What I'm Currently Learning
-- **[Robotics/Electronics]:** - Working with microcontrollers and microcomputers like Arduinos and Raspberry Pis to create a physical project to fullfill a certain task.
-- **[C++]** - Looking to learn how to code with C++ and creating more optimized code and memory storage.
-  
-## 📫 How to Reach Me
-- **Email:** [nicholasahenry06@gmail.com](mailto:nicholasahenry06@gmail.com)
-- **LinkedIn:** [https://www.linkedin.com/in/nahenry06/](https://www.linkedin.com/in/nahenry06/)
+I'm a software developer with a passion for building things — from competitive games and autonomous vehicles to machine learning tools and full-stack web apps. I enjoy learning through hands-on projects, and I'm always working on something new.
 
 ---
 
-Thank you for visiting my GitHub profile. Feel free to explore my repositories and get in touch if you have any questions or collaboration ideas!
+## 🛠️ Languages & Technologies
+ 
+**Languages**
+ 
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+ 
+**Frameworks & Tools**
+ 
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![Plotly](https://img.shields.io/badge/Plotly_Dash-3F4F75?style=flat-square&logo=plotly&logoColor=white)
+ 
+**Hardware & Embedded**
+ 
+![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-A22846?style=flat-square&logo=raspberrypi&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white)
+![micro:bit](https://img.shields.io/badge/micro:bit-00ED00?style=flat-square&logo=microbit&logoColor=black)
+
+---
+
+## 🏫 Experience
+
+### ⚡ Northeastern Electric Racing (NER) — Lead Software Engineer, Simulation
+Promoted to Lead SWE on the simulation team within my first few months. I lead development of the **parametric body vehicle simulator** — a Python-based tool that models vehicle dynamics with a Plotly Dash frontend, used by the team to iterate on car design and performance parameters.
+
+### 🚀 Students for the Exploration and Development of Space (SEDS) — Software Engineer, NEST Team
+Part of the NEST team, where I'm building a **DVM-SLAM camera system** for a swarm of snake robots. The system enables the robots to collaboratively map and navigate their environment, working together to complete tasks autonomously.
+
+---
+
+## 🛠️ Languages & Technologies
+
+**Languages:** Java · Python · C# · C++ *(learning)* · HTML/CSS · JavaScript
+
+**Frameworks & Tools:** React · Vite · Unity · TensorFlow · Plotly Dash · Vanilla JS · Docker · Git
+
+**Hardware & Embedded:** Raspberry Pi · Arduino · micro:bit · Ultrasonic/IR Sensors
+
+---
+
+## 🚀 Projects
+
+### ☕ Java
+| Project | Description |
+|--------|-------------|
+| [Medieval RPG](https://github.com/fastfruits/MedievalRPG1) | 🏆 **1st place** at my school club's GameJam (popular vote + judges). A 2D top-down RPG built over ~2 months — my deepest dive into game design and Java so far. |
+| [Human Benchmark App](https://github.com/fastfruits/Benchmark-Test) | 🏆 **1st place** at my school's Hack-A-Thon. A suite of reaction time, typing speed, and targeting tests with a composite score. |
+
+### 🐍 Python
+| Project | Description |
+|--------|-------------|
+| [Ten80 Autonomous Vehicle](https://github.com/fastfruits/AutonomousVehicle_Ten802023-2024) | Programmed a micro:bit-controlled autonomous car for district-level Ten80 competitions, integrating IR, ultrasonic, and other sensors to drive servo and motor outputs. |
+| [CV AI Text Transcriber](https://github.com/fastfruits/Text-Transcriber) | My first ML project — trained a TensorFlow model to recognize handwritten text and transcribe it to a `.txt` file, with optional audio output in multiple languages via Google TTS & Translate APIs. |
+
+### 🌐 Web Development
+| Project | Description |
+|--------|-------------|
+| [AICamp.org Website](https://github.com/Suru10/CV-UI) | Intern project — built a new section of AICamp's platform to support year-round AI education, expanding beyond their seasonal camp model. |
+| [Portfolio Website](https://github.com/fastfruits/Website) | Personal site showcasing my projects, with a focus on responsive design and interactivity. |
+
+---
+
+## 📚 Currently Learning
+
+- **Robotics & Electronics** — Building physical projects with Arduinos and Raspberry Pis
+- **C++** — Exploring lower-level programming for performance and memory optimization
+
+---
+
+## 📫 Get in Touch
+
+[![Email](https://img.shields.io/badge/Email-nicholasahenry06%40gmail.com-blue?style=flat-square&logo=gmail)](mailto:nicholasahenry06@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-nahenry06-0077B5?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/nahenry06/)
+
+---
+
+*Thanks for stopping by - feel free to explore my repos or reach out if you want to collaborate!*
