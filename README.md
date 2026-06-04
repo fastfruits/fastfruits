@@ -70,7 +70,7 @@ Part of the NEST team, where I'm building a **DVM-SLAM camera system** for a swa
 ### 🌐 Web Development
 | Project | Description |
 |--------|-------------|
-| [AICamp.org Website](https://github.com/Suru10/CV-UI) | Intern project — built a new section of AICamp's platform to support year-round AI education, expanding beyond their seasonal camp model. |
+| Northeastern Electric Racing Simulator | Club project — Work on a web-base parametrci vehicle simulator to test out car geometry built using Python and Dash Plotly. |
 | [Portfolio Website](https://github.com/fastfruits/Website) | Personal site showcasing my projects, with a focus on responsive design and interactivity. |
 
 ---
