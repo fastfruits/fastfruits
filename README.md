@@ -28,6 +28,7 @@ I'm a software developer with a passion for building things — from competitive
 **Hardware & Embedded**
  
 ![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-A22846?style=flat-square&logo=raspberrypi&logoColor=white)
+![ROS 2](https://img.shields.io/badge/ROS_2-22314E?style=flat-square&logo=ros&logoColor=white)
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white)
 ![micro:bit](https://img.shields.io/badge/micro:bit-00ED00?style=flat-square&logo=microbit&logoColor=black)
 
