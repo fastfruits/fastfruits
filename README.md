@@ -1,6 +1,6 @@
 # Hi, I'm Nicholas Henry 👋
 
-Software developer who likes building things — games, autonomous vehicles, ML tools, and full-stack web apps.
+Software developer who likes building things - games, autonomous vehicles, ML tools, and full-stack web apps.
 
 **⚡ Lead Software Engineer, Simulation** @ Northeastern Electric Racing · **🚀 Software Engineer** @ SEDS (NEST robotics)
 
@@ -26,10 +26,10 @@ Software developer who likes building things — games, autonomous vehicles, ML 
 
 ### 🚀 Featured Projects
 - 🏆 [Medieval RPG](https://github.com/fastfruits/MedievalRPG1) — 1st place GameJam. 2D top-down RPG built in Java.
-- 🏆 [Human Benchmark App](https://github.com/fastfruits/Benchmark-Test) — 1st place Hack-A-Thon. Reaction, typing & targeting tests.
+- 🏆 [Energy Education](https://github.com/fastfruits/Energy-Education) — Flask web app to educate children on the benfits and how to conserve energy.
 - 🚗 [Ten80 Autonomous Vehicle](https://github.com/fastfruits/AutonomousVehicle_Ten802023-2024) — micro:bit self-driving car with IR & ultrasonic sensors.
 - 🧠 [CV AI Text Transcriber](https://github.com/fastfruits/Text-Transcriber) — TensorFlow handwriting recognition with TTS output.
-- 🌐 [Portfolio Website](https://github.com/fastfruits/Website) — responsive personal site.
+- 🌐 [Portfolio Website](https://github.com/fastfruits/Website) — Personal site.
 
 ---
 
