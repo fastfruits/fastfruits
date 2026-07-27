@@ -25,11 +25,12 @@ Software developer who likes building things - games, autonomous vehicles, ML to
 ---
 
 ### 🚀 Featured Projects
-- 🏆 [Medieval RPG](https://github.com/fastfruits/MedievalRPG1) — 1st place GameJam. 2D top-down RPG built in Java.
-- 🏆 [Energy Education](https://github.com/fastfruits/Energy-Education) — Flask web app to educate children on the benfits and how to conserve energy.
-- 🚗 [Ten80 Autonomous Vehicle](https://github.com/fastfruits/AutonomousVehicle_Ten802023-2024) — micro:bit self-driving car with IR & ultrasonic sensors.
-- 🧠 [CV AI Text Transcriber](https://github.com/fastfruits/Text-Transcriber) — TensorFlow handwriting recognition with TTS output.
 - 🌐 [Portfolio Website](https://github.com/fastfruits/Website) — Personal site.
+- 🧠 [CV AI Text Transcriber](https://github.com/fastfruits/Text-Transcriber) — TensorFlow handwriting recognition with TTS output.
+- 🏆 [Energy Education](https://github.com/fastfruits/Energy-Education) — Flask web app to educate children on the benfits and how to conserve energy.
+- 🧠 [Neural Network](https://github.com/fastfruits/neural-network) — Small two layer neural system designed to work on the MNIST dataset achieving 90% accuracy.
+- 🚗 [Ten80 Autonomous Vehicle](https://github.com/fastfruits/AutonomousVehicle_Ten802023-2024) — micro:bit self-driving car with IR & ultrasonic sensors.
+- 🏆 [Medieval RPG](https://github.com/fastfruits/MedievalRPG1) — 1st place GameJam. 2D top-down RPG built in Java.
 
 ---
 
