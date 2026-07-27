@@ -2,7 +2,7 @@
 
 Software developer who likes building things - games, autonomous vehicles, ML tools, and full-stack web apps.
 
-**⚡ Lead Software Engineer, Simulation** @ Northeastern Electric Racing · **🚀 Software Engineer** @ SEDS (NEST robotics)
+**⚡ Lead Software Engineer, Simulation** @ Northeastern Electric Racing · **🚀 Software Engineer** @ SEDS (NEST)
 
 ---
 
